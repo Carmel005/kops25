@@ -1,4 +1,4 @@
-# eks25
+# eks25 
 # Step - 1 : Create EKS Management Host in AWS #
 
 1) Launch new Ubuntu VM using AWS Ec2 ( t2.micro )	  
